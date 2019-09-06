@@ -1,0 +1,5 @@
+# golang.org/x/xerrors v0.0.0-20190717185122-a985d3407aa7
+golang.org/x/xerrors
+golang.org/x/xerrors/internal
+# gopkg.in/goracle.v2 v2.20.1
+gopkg.in/goracle.v2
